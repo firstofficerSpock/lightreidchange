@@ -1,0 +1,74 @@
+# default dataset paths
+# please udpate to your own paths
+
+root_path: '/home/vipuser/Desktop/light-reid/lightreid/data/datasets/'
+
+market1501:
+  path: '/home/vipuser/Desktop/light-reid/lightreid/data/datasets/'
+  folder: 'Market-1501-v15.09.15'
+  download: False 
+
+dukemtmcreid:
+  path: '/home/vipuser/Desktop/light-reid/lightreid/data/datasets/'
+  folder: 'DukeMTMC-reID'
+  download: False
+
+msmt17:
+  path: '/home/vipuser/Desktop/light-reid/lightreid/data/datasets/'
+  folder: 'MSMT17_V1'
+  download: False
+
+cuhk03:
+  path: '/root/light-reid/lightreid/data/datasets/'
+  folder: 'cuhk03_release'
+  download: False
+
+wildtrack_crop:
+  path: '/root/light-reid/lightreid/data/datasets/'
+  folder: 'Wildtrack_crop_dataset/crop'
+  download: False
+
+rap:
+  path: '/root/light-reid/lightreid/data/datasets/'
+  folder: 'rap/ids/'
+  download: False
+
+njust365:
+  path: '/root/light-reid/lightreid/data/datasets/'
+  folder: 'njust365'
+  download: False
+
+njust365spr:
+  path: '/root/light-reid/lightreid/data/datasets/'
+  folder: 'njust365'
+  download: False
+
+njust365win:
+  path: '/root/light-reid/lightreid/data/datasets/'
+  folder: 'njust365'
+  download: False
+
+airportalert:
+  path: '/root/light-reid/lightreid/data/datasets/'
+  folder: 'airport'
+  download: False
+
+prid:
+  path: '/root/light-reid/lightreid/data/datasets/'
+  folder: 'prid'
+  download: False
+
+occludedreid:
+  path: '/root/light-reid/lightreid/data/datasets/'
+  folder: 'Occluded_REID'
+  download: False
+
+partialreid:
+  path: '/root/light-reid/lightreid/data/datasets/'
+  folder: 'PartialREID'
+  download: False
+
+partialilids:
+  path: '/root/light-reid/lightreid/data/datasets/'
+  folder: 'Partial_iLIDS'
+  download: False
