@@ -1,0 +1,17 @@
+#ignore market501
+/light-reid/lightreid/data/datasets/Market-1501-v15.09.15
+
+#ignore duke
+/light-reid/lightreid/data/datasets/DukeMTMC-reID
+
+#ignore 2
+/light-reid/examples/bagtricks_buildwithconfigs/2
+
+#ignore results
+/light-reid/examples/bagtricks_buildwithconfigs/results815
+
+/light-reid/examples/bagtricks_buildwithconfigs/resultssysuresizerandomcrop
+
+/light-reid/examples/bagtricks_buildwithconfigs/resultsdukechange64128
+
+/light-reid/examples/bagtricks_buildwithconfigs/resultsimagesize128x64
