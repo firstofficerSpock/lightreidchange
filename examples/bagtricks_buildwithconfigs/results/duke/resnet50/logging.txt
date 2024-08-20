@@ -21,3 +21,11 @@ light_search:  False
  [EPOCH: 5]  [TIME: 2024-08-20 20:35:44]  [RESULTS: classification_loss: 2.83169; triplet_loss: 0.37441; LR: 0.00017675; ] 
  [EPOCH: 6]  [TIME: 2024-08-20 20:36:19]  [RESULTS: classification_loss: 2.29045; triplet_loss: 0.3316; LR: 0.0002114; ] 
  [EPOCH: 7]  [TIME: 2024-08-20 20:36:54]  [RESULTS: classification_loss: 1.99397; triplet_loss: 0.29274; LR: 0.00024605; ] 
+
+******************** light-reid settings ******************** 
+light_model:  False 
+light_feat:  False 
+light_search:  False 
+******************** light-reid settings ********************
+ 
+2024-08-20 20:39:27 restore from ./results/duke/resnet50/model_8.pth 
