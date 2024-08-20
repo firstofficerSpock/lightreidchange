@@ -15,3 +15,6 @@
 /light-reid/examples/bagtricks_buildwithconfigs/resultsdukechange64128
 
 /light-reid/examples/bagtricks_buildwithconfigs/resultsimagesize128x64
+
+.pyc
+.jpg
