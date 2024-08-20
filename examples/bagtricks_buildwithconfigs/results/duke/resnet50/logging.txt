@@ -1,0 +1,23 @@
+
+******************** light-reid settings ******************** 
+light_model:  False 
+light_feat:  False 
+light_search:  False 
+******************** light-reid settings ********************
+ 
+[Feature Extraction] feature extraction time per batch (64) is 0.07889369574699613s 
+[Feature Extraction] feature extraction time per batch (64) is 0.06706732799002595s 
++--------------+----------------------+---------------------+--------------------+---------------------+
+|   dataset    |         map          |        rank-1       |       rank-5       |       rank-10       |
++--------------+----------------------+---------------------+--------------------+---------------------+
+|  Market1501  | 0.025489828214042012 | 0.07838479809976247 | 0.1680522565320665 | 0.22802850356294538 |
+| DukeMTMCreID | 0.02136094279374268  |  0.072262118491921  | 0.1355475763016158 | 0.17818671454219032 |
++--------------+----------------------+---------------------+--------------------+---------------------+ 
+ [EPOCH: 0]  [TIME: 2024-08-20 20:32:52]  [RESULTS: classification_loss: 6.54696; triplet_loss: 4.8541; LR: 3.5e-06; ] 
+ [EPOCH: 1]  [TIME: 2024-08-20 20:33:26]  [RESULTS: classification_loss: 6.42128; triplet_loss: 2.36752; LR: 3.8150000000000006e-05; ] 
+ [EPOCH: 2]  [TIME: 2024-08-20 20:34:01]  [RESULTS: classification_loss: 5.93615; triplet_loss: 0.64868; LR: 7.280000000000001e-05; ] 
+ [EPOCH: 3]  [TIME: 2024-08-20 20:34:35]  [RESULTS: classification_loss: 4.95432; triplet_loss: 0.50173; LR: 0.00010745; ] 
+ [EPOCH: 4]  [TIME: 2024-08-20 20:35:10]  [RESULTS: classification_loss: 3.77275; triplet_loss: 0.43149; LR: 0.0001421; ] 
+ [EPOCH: 5]  [TIME: 2024-08-20 20:35:44]  [RESULTS: classification_loss: 2.83169; triplet_loss: 0.37441; LR: 0.00017675; ] 
+ [EPOCH: 6]  [TIME: 2024-08-20 20:36:19]  [RESULTS: classification_loss: 2.29045; triplet_loss: 0.3316; LR: 0.0002114; ] 
+ [EPOCH: 7]  [TIME: 2024-08-20 20:36:54]  [RESULTS: classification_loss: 1.99397; triplet_loss: 0.29274; LR: 0.00024605; ] 
